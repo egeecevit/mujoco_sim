@@ -1,10 +1,4 @@
 # MuJoCo: What It Is and What It's Good For
-
-*A general assessment. For the full mathematical treatment — the convex program, solver
-internals, inverse dynamics — see [REPORT-technical.md](REPORT-technical.md).*
-
----
-
 ## Summary
 
 MuJoCo is a physics engine for simulating robots and other jointed mechanical systems. It
